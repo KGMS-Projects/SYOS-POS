@@ -110,3 +110,6 @@ See `/docs` folder for:
 - Use case diagrams
 - Sequence diagrams
 - Architecture analysis
+
+
+#add name to dev
